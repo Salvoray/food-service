@@ -2,8 +2,6 @@ import './styles.css';
 import dishesTpl from './templates/menu-list.hbs';
 import menu from './data/menu';
 
-console.log(menu);
-
 const Theme = {
   LIGHT: 'light-theme',
   DARK: 'dark-theme',
